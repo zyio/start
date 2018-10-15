@@ -2,8 +2,8 @@ start(){
   local foreman=false
   local executinglabel="Executing:"
   local planblabel="Command failed, time for Plan B"
-  local yellow="\033[1;33m"
-  local cyan="\033[1;36m"
+  local yellow="\033[1;36m"
+  local cyan="\033[1;33m"
   local reset="\033[0;0m"
   local port="3000"
 
